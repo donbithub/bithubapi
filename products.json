@@ -3,7 +3,8 @@
         "name": "Productivity Suite",
         "price": 15,
         "img": "images/notes.avif",
-        "description": "Includeds ALL of our tools to get yourself on track!"
+        "description": "Includeds ALL of our tools to get yourself on track!",
+        "carousel": false
     },
     {
         "name": "Productivity Planner",
