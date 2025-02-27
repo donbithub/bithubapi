@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Productivity Suite",
+        "price": 15,
+        "img": "images/notes.avif",
+        "description": "Includeds ALL of our tools to get yourself on track!"
+    },
+    {
+        "name": "Productivity Planner",
+        "price": 5,
+        "img": "images/digitalplanner.png",
+        "description": "Plan like never before with our new and improved planner!",
+        "carousel": true
+    },
+    {
+        "name": "Productivity To-do List",
+        "price": 5,
+        "img": "images/todolist.avif",
+        "description": "Prioritize your tasks to stay on top and do what's important!",
+        "carousel": true
+    },
+    {
+        "name": "Productivity Projects",
+        "price": 5,
+        "img": "images/projects.png",
+        "description": "Set your goals for any type of project be it work, school, or a hobby!",
+        "carousel": true
+    },
+    {
+        "name": "Productivity Notes",
+        "price": 5,
+        "img": "images/notes.jpg",
+        "description": "Prioritize your tasks to stay on top and do what's important!",
+        "carousel": true
+    }
+]
